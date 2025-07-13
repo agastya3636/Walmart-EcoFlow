@@ -139,7 +139,7 @@ function App() {
   const [isCollecting, setIsCollecting] = useState(false);
 
   const categories = ['Electronics', 'Clothing', 'Groceries', 'Home Goods', 'Others'];
-  const locations = ['Warehouse A - Dallas, TX', 'Warehouse B - Atlanta, GA', 'Warehouse C - Phoenix, AZ', 'Warehouse D - Chicago, IL', 'Warehouse E - Seattle, WA'];
+  const locations = ['Bangalore','Delhi', 'Jaipur', 'Ahmedabad', 'Kolkata','Hyderabad','Chennai', 'Mumbai'];
   const timeSlots = ['9-11 AM', '11-1 PM', '1-3 PM', '3-5 PM', '5-7 PM'];
   const boxConditions = ['Pristine', 'Good', 'Damaged'];
 

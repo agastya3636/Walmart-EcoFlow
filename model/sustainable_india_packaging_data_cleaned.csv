@@ -1,0 +1,301 @@
+Location,Product_Type,Packaging_Material,Carbon_Footprint (kg CO₂),Biodegradability_Score,Recyclability_Score,Cost_Efficiency,Availability
+Bangalore,Books,Mushroom Packaging,2.1,10,7,2,2
+Delhi,Books,Sugarcane Bagasse,2.3,10,5,1,2
+Kolkata,Beauty Products,Recycled Paper,2.0,8,9,1,3
+Bangalore,Home Goods,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Chennai,Beauty Products,Cornstarch Bag,2.2,7,6,1,2
+Ahmedabad,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Home Goods,Recycled Paper,2.0,8,9,1,3
+Chennai,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Apparel,Recycled Paper,2.0,8,9,1,3
+Kochi,Cosmetics,Sugarcane Bagasse,2.3,10,5,1,2
+Kolkata,Electronics,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Books,Cornstarch Bag,2.2,7,6,1,2
+Pune,Textiles,Recycled Cardboard,1.6,8,9,1,3
+Chennai,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Kolkata,Textiles,Compostable PLA,1.5,8,7,2,3
+Bangalore,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Delhi,Beauty Products,Recycled Paper,2.0,8,9,1,3
+Jaipur,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Kolkata,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Food,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Delhi,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Beauty Products,Bamboo Fiber,1.8,9,8,2,3
+Kolkata,Books,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Textiles,Hemp Paper,1.9,9,8,3,2
+Bangalore,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Home Goods,Compostable PLA,1.5,8,7,2,3
+Jaipur,Food,Cornstarch Bag,2.2,7,6,1,2
+Ahmedabad,Home Goods,Cornstarch Bag,2.2,7,6,1,2
+Ahmedabad,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Jaipur,Pharmaceuticals,Recycled Cardboard,1.6,8,9,1,3
+Ahmedabad,Electronics,Recycled Paper,2.0,8,9,1,3
+Ahmedabad,Textiles,Recycled Paper,2.0,8,9,1,3
+Kochi,Food,Recycled Paper,2.0,8,9,1,3
+Kochi,Books,Hemp Paper,1.9,9,8,3,2
+Delhi,Electronics,Recycled Paper,2.0,8,9,1,3
+Hyderabad,Cosmetics,Mushroom Packaging,2.1,10,7,2,2
+Delhi,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Ahmedabad,Books,Mushroom Packaging,2.1,10,7,2,2
+Ahmedabad,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Kochi,Food,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Jaipur,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Delhi,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Books,Recycled Cardboard,1.6,8,9,1,3
+Kochi,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Electronics,Recycled Paper,2.0,8,9,1,3
+Chennai,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Kolkata,Food,Recycled Cardboard,1.6,8,9,1,3
+Chennai,Cosmetics,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Textiles,Hemp Paper,1.9,9,8,3,2
+Bangalore,Pharmaceuticals,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Food,Sugarcane Bagasse,2.3,10,5,1,2
+Bangalore,Cosmetics,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Books,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Ahmedabad,Food,Hemp Paper,1.9,9,8,3,2
+Kochi,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Kolkata,Apparel,Compostable PLA,1.5,8,7,2,3
+Kolkata,Home Goods,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Pune,Textiles,Hemp Paper,1.9,9,8,3,2
+Jaipur,Electronics,Recycled Paper,2.0,8,9,1,3
+Chennai,Books,Bamboo Fiber,1.8,9,8,2,3
+Pune,Food,Compostable PLA,1.5,8,7,2,3
+Ahmedabad,Home Goods,Compostable PLA,1.5,8,7,2,3
+Ahmedabad,Pharmaceuticals,Hemp Paper,1.9,9,8,3,2
+Pune,Food,Sugarcane Bagasse,2.3,10,5,1,2
+Ahmedabad,Apparel,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Beauty Products,Hemp Paper,1.9,9,8,3,2
+Mumbai,Books,Hemp Paper,1.9,9,8,3,2
+Delhi,Electronics,Cornstarch Bag,2.2,7,6,1,2
+Bangalore,Pharmaceuticals,Recycled Cardboard,1.6,8,9,1,3
+Pune,Textiles,Recycled Paper,2.0,8,9,1,3
+Kolkata,Pharmaceuticals,Recycled Paper,2.0,8,9,1,3
+Bangalore,Books,Bamboo Fiber,1.8,9,8,2,3
+Kolkata,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Ahmedabad,Pharmaceuticals,Compostable PLA,1.5,8,7,2,3
+Chennai,Apparel,Sugarcane Bagasse,2.3,10,5,1,2
+Ahmedabad,Beauty Products,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Home Goods,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Electronics,Cornstarch Bag,2.2,7,6,1,2
+Bangalore,Books,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Ahmedabad,Beauty Products,Bamboo Fiber,1.8,9,8,2,3
+Jaipur,Apparel,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Books,Recycled Cardboard,1.6,8,9,1,3
+Mumbai,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Cosmetics,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Electronics,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Bangalore,Beauty Products,Hemp Paper,1.9,9,8,3,2
+Mumbai,Cosmetics,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Books,Hemp Paper,1.9,9,8,3,2
+Pune,Textiles,Recycled Paper,2.0,8,9,1,3
+Chennai,Apparel,Hemp Paper,1.9,9,8,3,2
+Kochi,Electronics,Cornstarch Bag,2.2,7,6,1,2
+Bangalore,Cosmetics,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Pharmaceuticals,Recycled Paper,2.0,8,9,1,3
+Bangalore,Apparel,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Textiles,Mushroom Packaging,2.1,10,7,2,2
+Kolkata,Home Goods,Recycled Paper,2.0,8,9,1,3
+Chennai,Beauty Products,Cornstarch Bag,2.2,7,6,1,2
+Delhi,Cosmetics,Cornstarch Bag,2.2,7,6,1,2
+Pune,Pharmaceuticals,Bamboo Fiber,1.8,9,8,2,3
+Kolkata,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Bangalore,Food,Hemp Paper,1.9,9,8,3,2
+Jaipur,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Pune,Books,Hemp Paper,1.9,9,8,3,2
+Bangalore,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Food,Recycled Paper,2.0,8,9,1,3
+Pune,Electronics,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Cosmetics,Recycled Cardboard,1.6,8,9,1,3
+Pune,Apparel,Recycled Cardboard,1.6,8,9,1,3
+Kolkata,Pharmaceuticals,Recycled Cardboard,1.6,8,9,1,3
+Chennai,Food,Recycled Cardboard,1.6,8,9,1,3
+Pune,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Chennai,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Mumbai,Beauty Products,Hemp Paper,1.9,9,8,3,2
+Pune,Food,Compostable PLA,1.5,8,7,2,3
+Kochi,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Delhi,Pharmaceuticals,Sugarcane Bagasse,2.3,10,5,1,2
+Bangalore,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Chennai,Cosmetics,Compostable PLA,1.5,8,7,2,3
+Delhi,Electronics,Mushroom Packaging,2.1,10,7,2,2
+Delhi,Apparel,Compostable PLA,1.5,8,7,2,3
+Hyderabad,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Textiles,Compostable PLA,1.5,8,7,2,3
+Pune,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Hyderabad,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Pune,Food,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Textiles,Recycled Cardboard,1.6,8,9,1,3
+Delhi,Beauty Products,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Bangalore,Food,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Apparel,Compostable PLA,1.5,8,7,2,3
+Bangalore,Textiles,Recycled Cardboard,1.6,8,9,1,3
+Kochi,Food,Recycled Paper,2.0,8,9,1,3
+Delhi,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Jaipur,Books,Compostable PLA,1.5,8,7,2,3
+Pune,Apparel,Mushroom Packaging,2.1,10,7,2,2
+Pune,Pharmaceuticals,Compostable PLA,1.5,8,7,2,3
+Kochi,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Jaipur,Home Goods,Bamboo Fiber,1.8,9,8,2,3
+Kochi,Food,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Pharmaceuticals,Recycled Paper,2.0,8,9,1,3
+Delhi,Books,Cornstarch Bag,2.2,7,6,1,2
+Bangalore,Beauty Products,Recycled Paper,2.0,8,9,1,3
+Ahmedabad,Food,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Books,Sugarcane Bagasse,2.3,10,5,1,2
+Jaipur,Textiles,Sugarcane Bagasse,2.3,10,5,1,2
+Delhi,Beauty Products,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Kochi,Books,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Food,Bamboo Fiber,1.8,9,8,2,3
+Kochi,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Kolkata,Books,Hemp Paper,1.9,9,8,3,2
+Bangalore,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Delhi,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Kolkata,Pharmaceuticals,Recycled Paper,2.0,8,9,1,3
+Delhi,Home Goods,Compostable PLA,1.5,8,7,2,3
+Kochi,Pharmaceuticals,Sugarcane Bagasse,2.3,10,5,1,2
+Pune,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Home Goods,Hemp Paper,1.9,9,8,3,2
+Pune,Beauty Products,Cornstarch Bag,2.2,7,6,1,2
+Mumbai,Apparel,Mushroom Packaging,2.1,10,7,2,2
+Pune,Books,Recycled Paper,2.0,8,9,1,3
+Kochi,Books,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Chennai,Electronics,Sugarcane Bagasse,2.3,10,5,1,2
+Ahmedabad,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Chennai,Pharmaceuticals,Compostable PLA,1.5,8,7,2,3
+Chennai,Apparel,Hemp Paper,1.9,9,8,3,2
+Mumbai,Electronics,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Textiles,Compostable PLA,1.5,8,7,2,3
+Mumbai,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Pune,Books,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Jaipur,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Pune,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Jaipur,Pharmaceuticals,Compostable PLA,1.5,8,7,2,3
+Bangalore,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Kochi,Electronics,Recycled Paper,2.0,8,9,1,3
+Ahmedabad,Books,Hemp Paper,1.9,9,8,3,2
+Hyderabad,Books,Mushroom Packaging,2.1,10,7,2,2
+Pune,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Bangalore,Home Goods,Bamboo Fiber,1.8,9,8,2,3
+Jaipur,Pharmaceuticals,Recycled Cardboard,1.6,8,9,1,3
+Ahmedabad,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Pune,Textiles,Sugarcane Bagasse,2.3,10,5,1,2
+Pune,Books,Mushroom Packaging,2.1,10,7,2,2
+Hyderabad,Cosmetics,Sugarcane Bagasse,2.3,10,5,1,2
+Mumbai,Electronics,Sugarcane Bagasse,2.3,10,5,1,2
+Kolkata,Textiles,Mushroom Packaging,2.1,10,7,2,2
+Ahmedabad,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Kochi,Home Goods,Compostable PLA,1.5,8,7,2,3
+Bangalore,Cosmetics,Recycled Cardboard,1.6,8,9,1,3
+Jaipur,Apparel,Recycled Paper,2.0,8,9,1,3
+Kochi,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Electronics,Hemp Paper,1.9,9,8,3,2
+Ahmedabad,Apparel,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Food,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Books,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Pune,Books,Recycled Cardboard,1.6,8,9,1,3
+Bangalore,Home Goods,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Food,Recycled Cardboard,1.6,8,9,1,3
+Hyderabad,Cosmetics,Sugarcane Bagasse,2.3,10,5,1,2
+Bangalore,Books,Recycled Cardboard,1.6,8,9,1,3
+Chennai,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Delhi,Home Goods,Recycled Cardboard,1.6,8,9,1,3
+Hyderabad,Cosmetics,Compostable PLA,1.5,8,7,2,3
+Kochi,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Jaipur,Food,Recycled Paper,2.0,8,9,1,3
+Kolkata,Beauty Products,Bamboo Fiber,1.8,9,8,2,3
+Mumbai,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Jaipur,Food,Hemp Paper,1.9,9,8,3,2
+Chennai,Pharmaceuticals,Recycled Cardboard,1.6,8,9,1,3
+Pune,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Hyderabad,Electronics,Sugarcane Bagasse,2.3,10,5,1,2
+Hyderabad,Books,Recycled Cardboard,1.6,8,9,1,3
+Kochi,Food,Recycled Paper,2.0,8,9,1,3
+Pune,Home Goods,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Beauty Products,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Food,Hemp Paper,1.9,9,8,3,2
+Chennai,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Chennai,Beauty Products,Hemp Paper,1.9,9,8,3,2
+Pune,Electronics,Compostable PLA,1.5,8,7,2,3
+Chennai,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Kochi,Textiles,Recycled Cardboard,1.6,8,9,1,3
+Mumbai,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Delhi,Pharmaceuticals,Mushroom Packaging,2.1,10,7,2,2
+Ahmedabad,Pharmaceuticals,Cornstarch Bag,2.2,7,6,1,2
+Ahmedabad,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Hyderabad,Food,Recycled Cardboard,1.6,8,9,1,3
+Hyderabad,Pharmaceuticals,Recycled Paper,2.0,8,9,1,3
+Bangalore,Textiles,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Textiles,Sugarcane Bagasse,2.3,10,5,1,2
+Kochi,Food,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Home Goods,Hemp Paper,1.9,9,8,3,2
+Hyderabad,Pharmaceuticals,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Pharmaceuticals,Hemp Paper,1.9,9,8,3,2
+Chennai,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Mumbai,Books,Sugarcane Bagasse,2.3,10,5,1,2
+Chennai,Apparel,Bamboo Fiber,1.8,9,8,2,3
+Pune,Pharmaceuticals,Hemp Paper,1.9,9,8,3,2
+Bangalore,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Delhi,Cosmetics,Compostable PLA,1.5,8,7,2,3
+Kolkata,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Kochi,Apparel,Compostable PLA,1.5,8,7,2,3
+Mumbai,Electronics,Recycled Cardboard,1.6,8,9,1,3
+Pune,Cosmetics,Recycled Paper,2.0,8,9,1,3
+Pune,Apparel,Recycled Paper,2.0,8,9,1,3
+Hyderabad,Cosmetics,Hemp Paper,1.9,9,8,3,2
+Chennai,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Hyderabad,Apparel,Hemp Paper,1.9,9,8,3,2
+Delhi,Textiles,Mushroom Packaging,2.1,10,7,2,2
+Jaipur,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Pune,Electronics,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Pharmaceuticals,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Books,Recycled Paper,2.0,8,9,1,3
+Jaipur,Pharmaceuticals,Hemp Paper,1.9,9,8,3,2
+Mumbai,Pharmaceuticals,Cornstarch Bag,2.2,7,6,1,2
+Kolkata,Cosmetics,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Pharmaceuticals,Cornstarch Bag,2.2,7,6,1,2
+Pune,Books,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Ahmedabad,Food,Cornstarch Bag,2.2,7,6,1,2
+Pune,Apparel,Mushroom Packaging,2.1,10,7,2,2
+Chennai,Cosmetics,Mushroom Packaging,2.1,10,7,2,2
+Kochi,Food,Recycled Paper,2.0,8,9,1,3
+Jaipur,Home Goods,Recycled Paper,2.0,8,9,1,3
+Delhi,Home Goods,Sugarcane Bagasse,2.3,10,5,1,2
+Delhi,Beauty Products,Compostable PLA,1.5,8,7,2,3
+Bangalore,Books,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Bangalore,Beauty Products,Recycled Paper,2.0,8,9,1,3
+Mumbai,Textiles,Bamboo Fiber,1.8,9,8,2,3
+Delhi,Electronics,Bamboo Fiber,1.8,9,8,2,3
+Jaipur,Cosmetics,Sugarcane Bagasse,2.3,10,5,1,2
+Pune,Home Goods,Cornstarch Bag,2.2,7,6,1,2
+Hyderabad,Books,Sugarcane Bagasse,2.3,10,5,1,2
+Chennai,Beauty Products,Cornstarch Bag,2.2,7,6,1,2
+Kochi,Beauty Products,Recycled Cardboard,1.6,8,9,1,3
+Hyderabad,Food,Recycled Cardboard,1.6,8,9,1,3
+Ahmedabad,Apparel,Recycled Paper,2.0,8,9,1,3
+Kolkata,Cosmetics,Mushroom Packaging,2.1,10,7,2,2
+Delhi,Electronics,Compostable PLA,1.5,8,7,2,3
+Bangalore,Pharmaceuticals,Sugarcane Bagasse,2.3,10,5,1,2
+Kochi,Beauty Products,Sugarcane Bagasse,2.3,10,5,1,2
+Jaipur,Home Goods,Compostable PLA,1.5,8,7,2,3

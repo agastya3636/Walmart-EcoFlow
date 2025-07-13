@@ -534,7 +534,7 @@ function App() {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-2">
-            Hello, Sarah Johnson!
+            Hello, Sarah !
           </h1>
           <p className="text-lg text-gray-600">
             Welcome to your sustainable packaging portal
